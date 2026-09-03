@@ -1,9 +1,7 @@
-# Day28_Track01_TenNhom
+# Day28_Track01_Anh_Trai_Mam_Hai
 
 Lab Day 28 — Dashboard Hành Động Cho Áp Dụng AI
 **Case:** FintechGuard — hệ thống AI phát hiện gian lận/lừa đảo giao dịch
-
-> ⚠️ Đổi tên thư mục repo này thành đúng mẫu `Day28_Track01_<Ten_Nhom>` (không dấu, không khoảng trắng, ví dụ `Day28_Track01_Van_Hanh`) trước khi đẩy lên GitHub, và điền đầy đủ bảng thành viên bên dưới.
 
 ## 1. Bảng thành viên
 
@@ -13,8 +11,6 @@ Lab Day 28 — Dashboard Hành Động Cho Áp Dụng AI
 | Nguyễn Đình Quốc | 2A202601935 | ADKAR + thiết kế AS-IS/TO-BE | Nhóm 02 (case AI chẩn đoán y tế): sơ đồ AS-IS/TO-BE chưa thể hiện điểm bàn giao giữa AI và bác sĩ; ADKAR dừng ở Awareness mà chưa phân tích Desire — cần chỉ rõ vì sao bác sĩ ngại tin kết quả AI |
 | Mai Tiến Mạnh | 2A202601922 | Mollick + lộ trình 30-60-90 | Nhóm 03 (case AI hỗ trợ chấm bài): lộ trình chưa chia rõ mốc 30-60-90 với deliverable cụ thể; phân vai Mollick chưa định nghĩa khi nào giáo viên cần can thiệp thay vì để AI chấm tự động |
 | Nguyễn Đức Anh | 2A202601870 | Dashboard + QA số liệu | Nhóm 04 (case AI chatbot CSKH): một số metric thiếu baseline/target và nguồn dữ liệu; chưa có hành động khắc phục khi tỷ lệ hài lòng khách hàng dưới ngưỡng — cần thêm owner và escalation plan |
-
-*Lưu ý: "Phần phụ trách" là ai chịu trách nhiệm viết ra phần đó, không có nghĩa các thành viên khác không tham gia — cả nhóm cần thống nhất để ba framework (Gartner-Lite, Mollick, ADKAR) cùng dẫn tới cùng một nguyên nhân gốc.*
 
 ## 2. Phạm vi
 
@@ -66,9 +62,9 @@ Day28_Track01_TenNhom/
 
 ## 8. Checklist trước khi nộp
 
-- [ ] Đổi tên thư mục đúng mẫu `Day28_Track01_<Ten_Nhom>`
-- [ ] Điền đầy đủ bảng thành viên (họ tên · MSSV · phần phụ trách · góp ý cho nhóm bạn)
-- [ ] Repo GitHub ở chế độ **Public**, nhánh `main`
-- [ ] Mở link ở cửa sổ ẩn danh để xác nhận xem được mà không cần đăng nhập
-- [ ] Không có dữ liệu nội bộ nhạy cảm của doanh nghiệp trong file
-- [ ] Mọi thành viên dán **cùng một link** vào LMS của mình
+- [x] Đổi tên thư mục đúng mẫu `Day28_Track01_<Ten_Nhom>`
+- [x] Điền đầy đủ bảng thành viên (họ tên · MSSV · phần phụ trách · góp ý cho nhóm bạn)
+- [x] Repo GitHub ở chế độ **Public**, nhánh `main`
+- [x] Mở link ở cửa sổ ẩn danh để xác nhận xem được mà không cần đăng nhập
+- [x] Không có dữ liệu nội bộ nhạy cảm của doanh nghiệp trong file
+- [x] Mọi thành viên dán **cùng một link** vào LMS của mình
